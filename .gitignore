@@ -1,0 +1,6 @@
+.tools/
+.bin/
+*.lock/
+*.tmp.*
+*.stackdump
+/data/books.csv
