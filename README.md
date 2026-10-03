@@ -31,8 +31,8 @@ I personalized the app as **Harris Reading Room**, with a rainbow-colored title 
 
 ## Narrated demo
 
-**[Watch the narrated demo (about 2 minutes)](demo/harris-reading-room.mp4)**
+**[Watch the narrated demo (2 minutes 8 seconds)](demo/harris-reading-room.mp4)**
 
-Shows the actual terminal app adding a book, updating its status and rating, and generating personalized recommendations. Narration uses a synthetic Windows voice, as requested. See the [demo notes and transcript](DEMO.md).
+Shows the actual terminal app adding a book, updating its status and rating, and generating personalized recommendations. Narrated by Harris using his own recording. See the [demo notes and narration outline](DEMO.md).
 
 More details: [commands, data formats, and troubleshooting](docs/GUIDE.md). Run integration checks with `bash tests/smoke.sh` in Bash.

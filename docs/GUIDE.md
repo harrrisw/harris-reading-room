@@ -82,6 +82,6 @@ Tests use temporary storage and cover persistence, CSV quoting, metadata, piped 
 
 ## Demo and submission
 
-Watch the [narrated terminal demo](../demo/harris-reading-room.mp4), or read its [notes and transcript](../DEMO.md). It uses a synthetic narrator and a temporary library, and demonstrates adding a book, updating status and rating, and getting recommendations.
+Watch the [narrated terminal demo](../demo/harris-reading-room.mp4), or read its [notes and narration outline](../DEMO.md). It uses Harris's recorded narration and a temporary library, and demonstrates adding a book, updating status and rating, and getting recommendations.
 
 The repository includes the application and narrated demo video. Enter its GitHub URL in the assignment sheet to submit it; the class-sheet submission is a separate step. `.bin/`, `.tools/`, and personal `data/books.csv` records are ignored; the Gum installer reproduces the Windows setup.
